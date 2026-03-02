@@ -14,6 +14,8 @@
     <relativePath/>
   </parent>
 
+  <packaging>war</packaging>
+
   <properties>
     <java.version>17</java.version>
   </properties>
