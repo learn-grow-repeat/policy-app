@@ -12,6 +12,6 @@ public class HelloWorldController {
     public String helloWorld() { 
         
         // Returning a simple "Hello World" response
-        return "Hello World"; 
+        return "Hello World from Swathy Sudha"; 
     } 
 }
