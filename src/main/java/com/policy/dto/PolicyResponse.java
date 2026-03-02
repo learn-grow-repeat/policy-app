@@ -1,4 +1,4 @@
-package com.example.policy.dto;
+package com.policy.dto;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

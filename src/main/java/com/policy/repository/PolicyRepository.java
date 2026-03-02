@@ -1,6 +1,6 @@
-package com.example.policy.repository;
+package com.policy.repository;
 
-import com.example.policy.dao.Policy;
+import com.policy.dao.Policy;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 

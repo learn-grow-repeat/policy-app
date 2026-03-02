@@ -1,8 +1,8 @@
-package com.example.policy.service;
+package com.policy.service;
 
-import com.example.policy.dao.Policy;
-import com.example.policy.dto.*;
-import com.example.policy.repository.PolicyRepository;
+import com.policy.dao.Policy;
+import com.policy.dto.*;
+import com.policy.repository.PolicyRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 import org.springframework.http.HttpStatus;

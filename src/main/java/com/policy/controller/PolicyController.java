@@ -1,7 +1,7 @@
-package com.example.policy.controller;
+package com.policy.controller;
 
-import com.example.policy.dto.*;
-import com.example.policy.service.PolicyService;
+import com.policy.dto.*;
+import com.policy.service.PolicyService;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.example.policy.dao;
+package com.policy.dao;
 
 import jakarta.persistence.*;
 import lombok.*;
