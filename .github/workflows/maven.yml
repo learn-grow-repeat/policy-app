@@ -33,7 +33,7 @@ jobs:
             port: ${{secrets.PORT}}
             source: "target/*.jar"
             target: "/tmp/"
-        - name: Verify WAR copied
+        - name: Verify JAR copied
           uses: appleboy/ssh-action@master
           with:
             host: ${{secrets.HOST}}
